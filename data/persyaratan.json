@@ -9,9 +9,7 @@
           "text": "Mengisi Formulir F-1.01",
           "refs": [
             {
-              "title": "Formulir F-1.01",
-              "description": "Formulir Biodata Keluarga (F-1.01)",
-              "toRef": "formulir_f1.01"
+              "toRef": "formulir-f-1-01"
             }
           ]
         },
@@ -25,9 +23,7 @@
           "text": "Apabila persyaratan diatas tidak dimiliki, maka WNI mengisi Formulir F-1.04 Surat Pernyataan tidak memiliki dokumen kependudukan",
           "refs": [
             {
-              "title": "Formulir F-1.04",
-              "description": "Surat Pernyataan Tidak Memiliki Dokumen Kependudukan (F-1.04)",
-              "toRef": "formulir_f1.04"
+              "toRef": "formulir-f-1-04"
             }
           ]
         }
@@ -41,9 +37,7 @@
           "text": "Mengisi Formulir F-1.01",
           "refs": [
             {
-              "title": "Formulir F-1.01",
-              "description": "Formulir Biodata Keluarga (F-1.01)",
-              "toRef": "formulir_f1.01"
+              "toRef": "formulir-f-1-01"
             }
           ]
         },
@@ -66,9 +60,7 @@
           "text": "Mengisi Formulir F-1.01",
           "refs": [
             {
-              "title": "Formulir F-1.01",
-              "description": "Formulir Biodata Keluarga (F-1.01)",
-              "toRef": "formulir_f1.01"
+              "toRef": "formulir-f-1-01"
             }
           ]
         },

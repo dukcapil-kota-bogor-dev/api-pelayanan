@@ -1,55 +1,166 @@
 {
   "baseurl": "https://disdukcapil.kotabogor.go.id/",
   "refs": {
-    "formulir_f1.01": {
-      "url": "download/pdf/f-1.01.pdf",
-      "documentName": "Formulir Biodata Keluarga (F-1.01)",
-      "documentType": "pdf"
+    "formulir-f-1-01": {
+      "documentName": "(F1.01) FORMULIR BIODATA KELUARGA",
+      "documentDescription": "Untuk pencatatan biodata keluarga yang digunakan untuk memasukan data kepala keluarga dan anggota keluarga",
+      "documentAddition": "Untuk pencatatan NIK pertama kali, penambahan atau pengurangan anggota keluarga",
+      "documentType": "pdf",
+      "url": "download/full/F1.01-biodata-keluarga.pdf"
     },
-    "formulir_f1.02": {
-      "url": "download/pdf/f-1.02.pdf",
-      "documentName": "Formulir Pendaftaran Peristiwa Kependudukan (F-1.02)",
-      "documentType": "pdf"
+    "formulir-f-1-02": {
+      "documentName": "(F1.02) FORMULIR PENDAFTARAN PERISTIWA KEPENDUDUKAN",
+      "documentDescription": "Digunakan untuk semua jenis pelayanan terkait peristiwa kependudukan",
+      "documentAddition": "Untuk pembuatan Kartu Keluarga, KTP-el, KIA",
+      "documentType": "pdf",
+      "url": "download/full/F1.02-pendaftaran-pendaftaran-peristiwa-kependudukan.pdf"
     },
-    "formulir_f1.05": {
-      "url": "download/pdf/f-1.05_sptjm_cerai.pdf",
-      "documentName": "SPTJM Kawin/Cerai (F-1.05)",
-      "documentType": "pdf"
+    "formulir-f-1-03": {
+      "documentName": "(F1.03) FORMULIR PENDAFTARAN PERPINDAHAN PENDUDUK",
+      "documentDescription": "Digunakan untuk kepindahahan pendudukan baik dalam wilayah NKRI maupun luar wilayah NKRI",
+      "documentAddition": "-",
+      "documentType": "pdf",
+      "url": "download/full/F1.03-pendaftaran-perpindahan-penduduk.pdf"
     },
-    "formulir_f1.03": {
-      "url": "download/pdf/f-1.03.pdf",
-      "documentName": "Fomulir Perpindahan (F-1.03)",
-      "documentType": "pdf"
+    "formulir-f-1-04": {
+      "documentName": "(F1.04) SURAT PERNYATAAN TIDAK MEMILIKI DOKUMEN KEPENDUDUKAN",
+      "documentDescription": "Digunakan untuk penduduk yang telah wajib KTP tetapi belum memiliki NIK",
+      "documentAddition": "Untuk penduduk yang tidak dapat melampirkan fotokpi dokumen atau bukti peristiwa penting seperti paspor,surat keterangan lahir,ijazah pendidikan terakhir,buku nikah melampirkan F 1.04",
+      "documentType": "pdf",
+      "url": "download/full/F1.04-surat-pernyataan-tidak-memiliki-dokumen-kependudukan.pdf"
     },
-    "formulir_f1.04": {
-      "url": "download/pdf/f-1.04.pdf",
-      "documentName": "SURAT PERNYATAAN TIDAK MEMILIKI DOKUMEN KEPENDUDUKAN (F-1.04)",
-      "documentType": "pdf"
+    "formulir-f-1-05": {
+      "documentName": "(F1.05) SPTJM PERKAWINAN/PERCERAIAN BELUM TERCATAT",
+      "documentDescription": "Digunakan untuk penduduk yang telah menikah atau bercerai tetapi belum dicatatkan secara resmi oleh negara",
+      "documentAddition": "-",
+      "documentType": "pdf",
+      "url": "download/full/F1.05-sptjm-perkawinan-perceraian.pdf"
     },
-    "formulir_f2.01_kelahiran": {
-      "url": "download/pdf/formulir_kelahiran_f-2_01.pdf",
-      "documentName": "Fomulir Pencatatan Kelahiran (F-2.01)",
-      "documentType": "pdf"
+    "formulir-f-1-06": {
+      "documentName": "(F1.06) SURAT PERNYATAAN PERUBAHAN ELEMENT DATA KEPENDUDUKAN",
+      "documentDescription": "Digunakan untuk semua jenis perubahan data yang tercantum dalam kartu keluarga",
+      "documentAddition": "Untuk setiap jenis perubahan data dalam KK harus disertai dengan bukti pendukung",
+      "documentType": "pdf",
+      "url": "download/full/F1.06-super-perubahan-elemen-data-kependudukan.pdf"
     },
-    "formulir_f2.01_perkawinan": {
-      "url": "download/pdf/f-2.01_full.pdf",
-      "documentName": "Fomulir Pencatatan Perkawinan (F-2.01)",
-      "documentType": "pdf"
+    "formulir-f-1-07": {
+      "documentName": "(F1.07) SURAT KUASA DALAM PELAYANAN ADMINISTRASI KEPENDUDUKAN",
+      "documentDescription": "Untuk setiap jenis pelayanan yang dikuasakan kepada orang lain harus membawa surat kuasa",
+      "documentAddition": "Untuk setiap jenis surat kuasa harus membawa KTP asli yang memberi kuasa",
+      "documentType": "pdf",
+      "url": "download/full/F1.07-surat-kuasa.pdf"
     },
-    "formulir_f2.01_perceraian": {
-      "url": "download/pdf/f-2.01_full.pdf",
-      "documentName": "Fomulir Pencatatan Perceraian (F-2.01)",
-      "documentType": "pdf"
+    "formulir-f-1-08": {
+      "documentName": "(F1.08) FORMULIR BIODATA PENDUDUK ORANG ASING YANG MEMILIKI IZIN TINGGAL TERBATAS/TINGGAL TETAP",
+      "documentDescription": "-",
+      "documentAddition": "-",
+      "documentType": "pdf",
+      "url": "download/full/F1.08-formulir-biodata-penduduk-orang-asing-yang-memiliki-izin-tinggal-terbatas-atau-tinggal-tetap.pdf"
     },
-    "formulir_f2.01_kematian": {
-      "url": "download/pdf/formulir_kelahiran_kematian_f-2.01.pdf",
-      "documentName": "Fomulir Pencatatan Kematian (F-2.01)",
-      "documentType": "pdf"
+    "formulir-f-1-17": {
+      "documentName": "(F1.17) FORMULIR PERMOHONAN KARTU KELUARGA BARU ORANG ASING YANG MEMILIKI IZIN TINGGAL TETAP",
+      "documentDescription": "-",
+      "documentAddition": "-",
+      "documentType": "pdf",
+      "url": "download/full/F1.17-formulir-permohonan-kartu-keluarga-baru-orang-asing-yang-memiliki-izin-tinggal-tetap.pdf"
     },
-    "formulir_f2.01_lainnya": {
-      "url": "download/pdf/f-2.01_full.pdf",
-      "documentName": "Fomulir Pencatatan Sipil (F-2.01)",
-      "documentType": "pdf"
+    "formulir-f-2-01": {
+      "documentName": "(F2.01) FORMULIR PELAPORAN PENCATATAN SIPIL DI DALAM WILAYAH NKRI",
+      "documentDescription": "Digunakan untuk semua jenis pelayanan terkait pencatatan sipil dalam wilayah NKRI",
+      "documentAddition": "Untuk pembuatan akta kelahiran, akta kematian, akta perkawinan, akta perceraian, perubahan nama",
+      "documentType": "pdf",
+      "url": "download/full/F2.01-formulir-pelaporan-pencatatan-sipil-di-dalam-wilayah-nkri.pdf"
+    },
+    "formulir-f-2-03-kelahiran": {
+      "documentName": "(F2.03) SURAT PERNYATAAN TANGGUNG JAWAB MUTLAK (SPTJM) KEBENARAN DATA KELAHIRAN",
+      "documentDescription": "Digunakan apabila pemohon dalam mengajukan pembuatan akta kelahiran tidak dapat menujukkan surat keterangan lahir baik dari rumah sakit ataupun kelurahan",
+      "documentAddition": "-",
+      "documentType": "pdf",
+      "url": "download/full/F2.03-sptjm-kebenaran-data-kelahiran.pdf"
+    },
+    "formulir-f-2-03-kematian": {
+      "documentName": "(F2.03) SURAT PERNYATAAN TANGGUNG JAWAB MUTLAK (SPTJM) KEBENARAN DATA KEMATIAN",
+      "documentDescription": "Digunakan apabila yang meninggal dunia tidak memiliki KTP atau KK dan tanpa NIK",
+      "documentAddition": "Apabila yang meninggal dunia tidak ada NIK, KTP dan KK. Maka dapat menggunakan buku nikah atau pasport",
+      "documentType": "pdf",
+      "url": "download/full/F2.03-sptjm-kebenaran-data-kematian.pdf"
+    },
+    "formulir-f-2-10": {
+      "documentName": "(F2.10) SURAT PERNYATAAN PENGAKUAN ANAK",
+      "documentDescription": "-",
+      "documentAddition": "-",
+      "documentType": "pdf",
+      "url": "download/full/F2.10-super-pengakuan-anak.pdf"
+    },
+    "formulir-f-2-04": {
+      "documentName": "(F2.04) SURAT PERNYATAAN TANGGUNG JAWAB MUTLAK (SPTJM) KEBENARAN SEBAGAI PASANGAN SUAMI ISTRI",
+      "documentDescription": "Digunakan apabila pemohon dalam mengajukan pembuatan akta kelahiran tidak dapat menunjukkan buku nikah/akta perkawinan orang tua",
+      "documentAddition": "-",
+      "documentType": "pdf",
+      "url": "download/full/F2.04-sptjm-kebenaran-sebagai-pasangan-suami-istri.pdf"
+    },
+    "super-penyebab-terjadinya-terjadinya-hilang-atau-rusak-kartu-keluarga": {
+      "documentName": "SURAT PERNYATAAN PENYEBAB TERJADINYA TERJADINYA HILANG/RUSAK KARTU KELUARGA",
+      "documentDescription": "-",
+      "documentAddition": "-",
+      "documentType": "pdf",
+      "url": "download/full/super-penyebab-terjadinya-terjadinya-hilang-atau-rusak-kartu-keluarga.pdf"
+    },
+    "super-perubahan-agama-menjadi-kepercayaan-terhadap-tuhan-yme": {
+      "documentName": "SURAT PERNYATAAN PERUBAHAN AGAMA MENJADI KEPERCAYAAN TERHADAP TUHAN YME",
+      "documentDescription": "-",
+      "documentAddition": "-",
+      "documentType": "pdf",
+      "url": "download/full/super-perubahan-agama-menjadi-kepercayaan-terhadap-tuhan-yme.pdf"
+    },
+    "sptjm-sebagai-penghayat-kepercayaan-terhadap-tuhan-yme": {
+      "documentName": "SURAT PERNYATAAN TANGGUNG JAWAB MUTLAK (SPTJM) SEBAGAI PENGHAYAT KEPERCAYAAN TERHADAP TUHAN YME",
+      "documentDescription": "-",
+      "documentAddition": "-",
+      "documentType": "pdf",
+      "url": "download/full/sptjm-sebagai-penghayat-kepercayaan-terhadap-tuhan-yme.pdf"
+    },
+    "super-alamat-digunakan-dalam-administrasi-kependudukan": {
+      "documentName": "SURAT PERNYATAAN ALAMAT DIGUNAKAN DALAM ADMINISTRASI KEPENDUDUKAN",
+      "documentDescription": "-",
+      "documentAddition": "-",
+      "documentType": "pdf",
+      "url": "download/full/super-alamat-digunakan-dalam-administrasi-kependudukan.pdf"
+    },
+    "super-menggunakan-alamat-rumah-milik-sendiri": {
+      "documentName": "SURAT PERNYATAAN MENGGUNAKAN ALAMAT RUMAH MILIK SENDIRI",
+      "documentDescription": "-",
+      "documentAddition": "-",
+      "documentType": "pdf",
+      "url": "download/full/super-menggunakan-alamat-rumah-milik-sendiri.pdf"
+    },
+    "super-tidak-keberatan-numpang-kartu-keluarga": {
+      "documentName": "SURAT PERNYATAAN TIDAK KEBERATAN NUMPANG KARTU KELUARGA",
+      "documentDescription": "-",
+      "documentAddition": "-",
+      "documentType": "pdf",
+      "url": "download/full/super-tidak-keberatan-numpang-kartu-keluarga.pdf"
+    },
+    "surat-kuasa-pengasuhan-anak-dan-surat-pernyataan-bersedia-menerima-sebagai-anggota-keluarga-untuk-pindah-datang-numpang-kk": {
+      "documentName": "SURAT KUASA PENGASUHAN ANAK DAN SURAT PERNYATAAN BERSEDIA MENERIMA SEBAGAI ANGGOTA KELUARGA (UNTUK PINDAH DATANG NUMPANG KK)",
+      "documentDescription": "-",
+      "documentAddition": "-",
+      "documentType": "pdf",
+      "url": "download/full/surat-kuasa-pengasuhan-anak-dan-surat-pernyataan-bersedia-menerima-sebagai-anggota-keluarga-(untuk-pindah-datang-numpang-kk).pdf"
+    },
+    "sptjm-kebenaran-data-akta-kutipan-kedua": {
+      "documentName": "SURAT PERNYATAAN TANGGUNG JAWAB MUTLAK (SPTJM) KEBENARAN DATA AKTA KUTIPAN KEDUA",
+      "documentDescription": "-",
+      "documentAddition": "-",
+      "documentType": "pdf",
+      "url": "download/full/sptjm-kebenaran-data-akta-kutipan-kedua.pdf"
+    },
+    "formulir-pernyataan-anak-ibu": {
+      "documentName": "FORMULIR PERNYATAAN ANAK IBU",
+      "documentDescription": "-",
+      "documentAddition": "-",
+      "documentType": "pdf",
+      "url": "download/full/formulir-pernyataan-anak-ibu.pdf"
     }
   }
 }
