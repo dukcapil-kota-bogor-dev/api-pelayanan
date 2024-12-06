@@ -1,0 +1,84 @@
+{
+  "name": "DISDUKCAPIL KOTA BOGOR - Persyaratan",
+  "contents": [
+    {
+      "id": "pencatatan_biodata_wni_dalam_wilayah_nkri",
+      "title": "Pencatatan Biodata WNI Dalam Wilayah NKRI",
+      "contents": [
+        {
+          "text": "Mengisi Formulir F-1.01",
+          "refs": [
+            {
+              "title": "Formulir F-1.01",
+              "description": "Formulir Biodata Keluarga (F-1.01)",
+              "toRef": "formulir_f1.01"
+            }
+          ]
+        },
+        {
+          "text": "Fotokopi dokumen atau bukti Peristiwa Kependudukan dan Peristiwa Penting (Paspor, Surat Keterangan Kelahiran dari RS/Puskesmas/Klinik)"
+        },
+        {
+          "text": "Fotokopi bukti pendidikan terakhir"
+        },
+        {
+          "text": "Apabila persyaratan diatas tidak dimiliki, maka WNI mengisi Formulir F-1.04 Surat Pernyataan tidak memiliki dokumen kependudukan",
+          "refs": [
+            {
+              "title": "Formulir F-1.04",
+              "description": "Surat Pernyataan Tidak Memiliki Dokumen Kependudukan (F-1.04)",
+              "toRef": "formulir_f1.04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pencatatan_biodata_wni_di_luar_wilayah_nkri",
+      "title": "Pencatatan Biodata WNI Di Luar Wilayah NKRI",
+      "contents": [
+        {
+          "text": "Mengisi Formulir F-1.01",
+          "refs": [
+            {
+              "title": "Formulir F-1.01",
+              "description": "Formulir Biodata Keluarga (F-1.01)",
+              "toRef": "formulir_f1.01"
+            }
+          ]
+        },
+        {
+          "text": "Fotokopi Dokumen Perjalanan Republik Indonesia"
+        },
+        {
+          "text": "Surat Keterangan yang menunjuk domisili"
+        },
+        {
+          "text": "Fotokopi dokumen atau bukti peristiwa kependudukan dan peristiwa penting"
+        }
+      ]
+    },
+    {
+      "id": "pencatatan_biodata_orang_asing",
+      "title": "Pencatatan Biodata Orang Asing",
+      "contents": [
+        {
+          "text": "Mengisi Formulir F-1.01",
+          "refs": [
+            {
+              "title": "Formulir F-1.01",
+              "description": "Formulir Biodata Keluarga (F-1.01)",
+              "toRef": "formulir_f1.01"
+            }
+          ]
+        },
+        {
+          "text": "Fotokopi dokumen perjalanan"
+        },
+        {
+          "text": "Fotokopi kartu izin tinggal terbatas atau izin tinggal tetap"
+        }
+      ]
+    }
+  ]
+}

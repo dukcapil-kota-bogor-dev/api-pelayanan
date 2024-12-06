@@ -1,0 +1,55 @@
+{
+  "baseurl": "https://disdukcapil.kotabogor.go.id/",
+  "refs": {
+    "formulir_f1.01": {
+      "url": "download/pdf/f-1.01.pdf",
+      "documentName": "Formulir Biodata Keluarga (F-1.01)",
+      "documentType": "pdf"
+    },
+    "formulir_f1.02": {
+      "url": "download/pdf/f-1.02.pdf",
+      "documentName": "Formulir Pendaftaran Peristiwa Kependudukan (F-1.02)",
+      "documentType": "pdf"
+    },
+    "formulir_f1.05": {
+      "url": "download/pdf/f-1.05_sptjm_cerai.pdf",
+      "documentName": "SPTJM Kawin/Cerai (F-1.05)",
+      "documentType": "pdf"
+    },
+    "formulir_f1.03": {
+      "url": "download/pdf/f-1.03.pdf",
+      "documentName": "Fomulir Perpindahan (F-1.03)",
+      "documentType": "pdf"
+    },
+    "formulir_f1.04": {
+      "url": "download/pdf/f-1.04.pdf",
+      "documentName": "SURAT PERNYATAAN TIDAK MEMILIKI DOKUMEN KEPENDUDUKAN (F-1.04)",
+      "documentType": "pdf"
+    },
+    "formulir_f2.01_kelahiran": {
+      "url": "download/pdf/formulir_kelahiran_f-2_01.pdf",
+      "documentName": "Fomulir Pencatatan Kelahiran (F-2.01)",
+      "documentType": "pdf"
+    },
+    "formulir_f2.01_perkawinan": {
+      "url": "download/pdf/f-2.01_full.pdf",
+      "documentName": "Fomulir Pencatatan Perkawinan (F-2.01)",
+      "documentType": "pdf"
+    },
+    "formulir_f2.01_perceraian": {
+      "url": "download/pdf/f-2.01_full.pdf",
+      "documentName": "Fomulir Pencatatan Perceraian (F-2.01)",
+      "documentType": "pdf"
+    },
+    "formulir_f2.01_kematian": {
+      "url": "download/pdf/formulir_kelahiran_kematian_f-2.01.pdf",
+      "documentName": "Fomulir Pencatatan Kematian (F-2.01)",
+      "documentType": "pdf"
+    },
+    "formulir_f2.01_lainnya": {
+      "url": "download/pdf/f-2.01_full.pdf",
+      "documentName": "Fomulir Pencatatan Sipil (F-2.01)",
+      "documentType": "pdf"
+    }
+  }
+}
