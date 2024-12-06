@@ -90,7 +90,7 @@ const persyaratanProcessSingleContent = (content: Content): Content => {
 export async function GET(request: NextRequest): Promise<NextResponse> {
   try {
     const persyaratanData = getPersyaratan();
-    let result = persyaratanContainer(persyaratanData.contents);
+    const result = persyaratanContainer(persyaratanData.contents);
 
     // Ambil parameter `id` dari query string
     const { searchParams } = new URL(request.url);
